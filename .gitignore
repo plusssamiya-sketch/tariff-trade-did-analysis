@@ -1,0 +1,10 @@
+*.log
+*.smcl
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+data/raw/
+data/private/
+outputs/*.xlsx
+outputs/*.docx
